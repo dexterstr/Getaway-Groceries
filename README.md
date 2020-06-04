@@ -12,13 +12,13 @@ This website is about the takeaway groceries daily using the online site develop
 
 ## Project Management Plan link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
+
 
 ## Work Breakdown Structure link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
-## Team Name: Proj Pals
+
+## Team Name: 
 
 ## Team Members
 
@@ -31,7 +31,6 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
 
 ## Roles:
 
