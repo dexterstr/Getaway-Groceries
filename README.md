@@ -30,7 +30,7 @@ This website is about the takeaway groceries daily using the online site develop
 ## Client: Dr.Aziz Fellah
 
 ## Team Logo:
-
+<https://github.com/dexterstr/Getaway-Groceries/blob/master/Getaway-Groceries.png>
 
 ## Roles:
 
@@ -45,7 +45,7 @@ Our Project charter outlines the purpose, objectives, goals, scope, project budg
 
 ## Project Charter Link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+
 
 ## Team Communication and Participation:
 
