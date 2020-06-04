@@ -21,11 +21,33 @@ We will be communicating using Northwest Email and Zoom to setup online meetings
 ## Dealing with a non-participating team member:
 A non-participating group member may show that something is off with the group. Maybe the team's approach isn't working or the mission isn't clear. Return to the group's shared vision and mission and clarify best strategies for satisfying them. To advance way better cohesion, ask the individual out for coffee or lunch and attempt to get to know him or her better, and bring a couple of other colleagues along.
 ## Roles:
-Area/Topic	Responsible Team Members
-Project Manager and Team Lead	Tarun Sarpanjeri
-Content Developer	Tarun Sarpanjeri, Alekhya Jaddu
-Web Application Developer	Sai Rohith Gorla, Navya Devineni
-User Interface Developer	Navya Devineni, Sai Rohith Gorla, Alekhya Jaddu
+
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Area/Topic&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Responsible Team Members&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager and Team Lead&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Content Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri, Alekhya Jaddu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Web Application Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sai Rohith Gorla, Navya Devineni&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>User Interface Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Navya Devineni, Sai Rohith Gorla, Alekhya&nbsp;&nbsp;&nbsp;Jaddu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 ## Each Role Tasks:
 Project Manager and Team Lead
 •	Setting up every day gatherings 
