@@ -1,7 +1,4 @@
 # Getaway-Groceries
-
-# Project Title: Getaway Groceries
-
 # Project Description:
 
 This website is about the takeaway groceries daily using the online site developed by us. By using this website anyone can buy groceries from their home and put delivery to the valid address.
