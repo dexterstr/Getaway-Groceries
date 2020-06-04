@@ -1,22 +1,11 @@
 # Getaway-Groceries
 # Project Description:
 
-This website is about the takeaway groceries daily using the online site developed by us. By using this website anyone can buy groceries from their home and put delivery to the valid address.
-
+We are creating a eCommerce Website that is an Online Grocery Store selling fruits and vegetables either fresh or preserved, meat, seafood, dairy products, pantry, beauty and body care products, household items etc. Customers can place orders online and can get next-day deliveries.The main aim of our website is allowing a customer to find their product(s), add them to their "cart" and securely enter their payment information to complete the purchase.
 ## Project Repository
 
 <https://github.com/dexterstr/Getaway-Groceries>
-
-## Project Management Plan link:
-
-
-
-## Work Breakdown Structure link:
-
-
-
-## Team Name: 
-
+## Team Name: Rebels
 ## Team Members
 
 • Alekhya Jaddu <br>
@@ -27,7 +16,8 @@ This website is about the takeaway groceries daily using the online site develop
 ## Client: Dr.Aziz Fellah
 
 ## Team Logo:
-<https://github.com/dexterstr/Getaway-Groceries/blob/master/Getaway-Groceries.png>
+
+![image](https://github.com/dexterstr/Getaway-Groceries/blob/master/Getaway-Groceries.png)
 
 ## Roles:
 
