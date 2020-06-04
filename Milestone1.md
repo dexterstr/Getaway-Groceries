@@ -54,49 +54,117 @@ User Interface developer:
 • Meeting the requirements
 
 
-## Project Charter
-Date: 05/17/2020
+## Project Charter:
 
+Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Project Title:&nbsp;&nbsp;&nbsp;Getaway Groceries-Online Grocery Store&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Start Date:  05/17/2020                &nbsp;&nbsp;&nbsp;Projected Finish Date: 06/04/2020&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Budget Information: Provided by Client based on resources&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager:&nbsp;&nbsp;&nbsp;Tarun Sarpanjeri, +1(660)528-0515,&nbsp;&nbsp;&nbsp;S537916@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Objectives:<br>&nbsp;&nbsp;&nbsp;<br>To develop web application&nbsp;&nbsp;&nbsp;for creating a user friendly eCommerce website where customers are able to purchase&nbsp;&nbsp;&nbsp;and check out their products easily without any trouble and getting stuck in any&nbsp;&nbsp;&nbsp;process starting from placing the order till the order getting placed&nbsp;&nbsp;&nbsp;confirmation.<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Success Criteria:<br>&nbsp;&nbsp;&nbsp;<br>Meeting triple constraints&nbsp;&nbsp;&nbsp;(Cost, Scope, Schedule) and customer satisfaction.<br>&nbsp;&nbsp;&nbsp;<br>Fulfill Client Requirement&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Approach:<br>&nbsp;&nbsp;&nbsp;<br>Agile Methodology&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-## Project Title: Getaway Groceries-Online Grocery Store
-## Project Start Date:  05/17/2020                
-## Projected Finish Date: 06/04/2020
-Budget Information: Provided by Client based on resources<br>
-Project Manager: Tarun Sarpanjeri, +1(660)528-0515, S537916@nwmissouri.edu<br>
-Project Objectives:
-To develop web application for creating a user friendly eCommerce website where customers are able to purchase and check out their products easily without any trouble and getting stuck in any process starting from placing the order till the order getting placed confirmation.<br>
+## Roles and Responsibilities
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Name&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Role&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Position&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Contact Information&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager/Team Lead/Content Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Manager&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>S537916@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Alekhya Jaddu<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Web application<br>&nbsp;&nbsp;&nbsp;<br>Developer/User Interface Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sr. Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>S538343@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Navya Devineni<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Web application<br>&nbsp;&nbsp;&nbsp;<br>Developer/User Interface Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Jr. Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>S538339@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sai Rohith Gorla&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>User Interface Developer/ Content Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>     Senior&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>S538416@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-Success Criteria:
-Meeting triple constraints (Cost, Scope, Schedule) and customer satisfaction.
-Fulfill Client Requirement<br>
-Approach:
-Agile Methodology<br>
-Roles and Responsibilities:
+## Stakeholder Register for Getaway Groceries
 
-Name and Signature
-	Role	Position	Contact Information
+Prepared by:	Tarun Sarpanjeri 			Date: 05/17/2020
 
-Tarun Sarpanjeri
-  	Project Manager/Team Lead/Content Developer	Manager	S537916@nwmissouri.edu
-Alekhya Jaddu
- 	Web application
-Developer/User Interface Developer	Sr. Developer	S538343@nwmissouri.edu
-Navya Devineni
- 
-	Web application
-Developer/User Interface Developer	Jr. Developer	S538339@nwmissouri.edu
-Sai Rohith Gorla 	User Interface Developer/ Content Developer	     Senior 	S538416@nwmissouri.edu
-
-Stakeholder Register for Project Name
-
-Prepared by:	Tarun Sarpanjeri			Date: 05/17/2020
-
-Name	Position	Internal/External	Project Role	Contact Information
-Tarun Sarpanjeri	Manager	Internal	Project Manager	+1(660)528-0515
-Alekhya Jaddu	Sr. Developer	Internal	Project Lead	+1(618)980-5266
-Navya Devineni
-	Jr. Developer	Internal	Team Member	+1(407)625-1115
-Sai Rohith Gorla	     Senior 	Internal	Team Member	+1(660)528-0277
-
-
-
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Name&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Position&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Internal/External&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Project Role&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Contact Information&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Manager&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Internal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>+1(660)528-0515&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Alekhya Jaddu&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sr. Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Internal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Lead&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>+1(618)980-5266&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Navya Devineni<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Jr. Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Internal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Team Member&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>+1(407)625-1115&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sai Rohith Gorla&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>     Senior&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Internal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Team Member&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>+1(660)528-0277&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>

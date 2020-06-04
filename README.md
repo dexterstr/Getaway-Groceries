@@ -21,14 +21,63 @@ We are creating a eCommerce Website that is an Online Grocery Store selling frui
 
 ## Roles:
 
-Project Manager and Team Lead – Tarun Sarpanjeri (s537916@nwmissouri.edu)<br>
-Content Developer – Alekhya Jaddu (s538343@nwmissouri.edu)<br>
-User Interface Developer – Navya Devineni (s538339@nwmissouri.edu)<br>
-Web Application Developer - Sai Rohith Gorla (s538416@nwmissouri.edu)<br>
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Area/Topic&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Responsible Team Members&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager and Team Lead&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Content Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Tarun Sarpanjeri, Alekhya Jaddu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Web Application Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sai Rohith Gorla, Navya Devineni&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>User Interface Developer&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Navya Devineni, Sai Rohith Gorla, Alekhya&nbsp;&nbsp;&nbsp;Jaddu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 ## Project Charter:
 
 Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
+<table>
+<thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Project Title:&nbsp;&nbsp;&nbsp;Getaway Groceries-Online Grocery Store&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Start Date:  05/17/2020                &nbsp;&nbsp;&nbsp;Projected Finish Date: 06/04/2020&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Budget Information: Provided by Client based on resources&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Manager:&nbsp;&nbsp;&nbsp;Tarun Sarpanjeri, +1(660)528-0515,&nbsp;&nbsp;&nbsp;S537916@nwmissouri.edu&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Project Objectives:<br>&nbsp;&nbsp;&nbsp;<br>To develop web application&nbsp;&nbsp;&nbsp;for creating a user friendly eCommerce website where customers are able to purchase&nbsp;&nbsp;&nbsp;and check out their products easily without any trouble and getting stuck in any&nbsp;&nbsp;&nbsp;process starting from placing the order till the order getting placed&nbsp;&nbsp;&nbsp;confirmation.<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Success Criteria:<br>&nbsp;&nbsp;&nbsp;<br>Meeting triple constraints&nbsp;&nbsp;&nbsp;(Cost, Scope, Schedule) and customer satisfaction.<br>&nbsp;&nbsp;&nbsp;<br>Fulfill Client Requirement&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Approach:<br>&nbsp;&nbsp;&nbsp;<br>Agile Methodology&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 ## Team Communication and Participation:
 
