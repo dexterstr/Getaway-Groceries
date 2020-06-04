@@ -30,23 +30,23 @@
 ## Project Management Plan
 Date: 05/23/2020 <br>
 
-Project Name: Getaway Groceries-Online Grocery Store<br>
+<b>Project Name: Getaway Groceries-Online Grocery Store</b><br>
 
-Introduction/Overview of Project:
+<b>Introduction/Overview of Project:</b>
 
 To develop web application for creating a user friendly eCommerce website where customers are able to purchase and check out their products easily without any trouble and getting stuck in any process starting from placing the order till the order getting placed confirmation. <br>
 
-Evolution of this website: 
+<b>Evolution of this website: </b>
 There are several stages and modifications in the project from start to finish. The changes are well documented in Microsoft Office and Google Documents, so they can be viewed and worked simultaneously by all of the team members. All the proposals for improvements are officially submitted by a team member to build a user profile and the project manager 's commission is set up to agree on the changes. The main purpose of Google Docs is to save these changes as formally noted as the requests for changes continue to appear.<br>
  
-Project Organization:
+<b>Project Organization:</b>
 <br>
 Management and Technical Processes<br>
 Management Processes:<br>
 Management Objectives and Priorities:<br>
 The top most priority of the Management is ensuring that the product is delivered within the time and budget and is functioning properly without any glitches.<br>
 Once a new proposal comes up, the management committee decides whether a change needs to be accepted or not.<br>
-Assumptions, Dependencies, and Constraints:<br>
+<b>Assumptions, Dependencies, and Constraints:</b><br>
 The project should always satisfy the triple constraints scope, quality and time.<br>
 Risk Management:<br>
  When some risk occurs in our project first, the root cause is identified and the root cause is minimized by the risk management techniques which are needed and is typically managed by the risk management department.<br>
