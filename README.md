@@ -30,10 +30,6 @@ Web Application Developer - Sai Rohith Gorla (s538416@nwmissouri.edu)<br>
 
 Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
 
-## Project Charter Link:
-
-
-
 ## Team Communication and Participation:
 
 We will conduct few stand-up meetings in Colden Hall or Horizons West, and also communicate through phone calls, e-mails, WhatsApp group, Skype for Business, etc.
