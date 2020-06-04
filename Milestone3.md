@@ -7,7 +7,7 @@
 
 1.	<b>Stakeholder communications requirements:</b>
 
-The reason of Communication Administration is to characterize the communication necessities for the project and how information will be conveyed. It mainly defines what information will be communicated, how the information is communicated, to whom and when the information is communicated and an escalation process for resolving any communication based conflicts. There are three general classes of communication that are required in an effective stakeholder administration; reporting, public relations (showcasing) and purposeful communication. Reporting, PR and promoting and purposeful communication.
+The reason of Communication Administration is to characterize the communication necessities for the project and how information will be conveyed. It mainly defines what information will be communicated, how the information is communicated, to whom and when the information is communicated and an escalation process for resolving any communication based conflicts. There are three general classes of communication that are required in an effective stakeholder administration; reporting, public relations (showcasing) and purposeful communication. Reporting, PR and promoting and purposeful communication.<br>
 2.	<b>Communications summary:</b>
 
 <table>
@@ -157,7 +157,7 @@ The quality administration depicts a lot of arranged activities to guarantee tha
 •	Performing quality control is done as a part of monitoring and control
 
 
-<b>Quality Standards</b<br>
+<b>Quality Standards</b><br>
 Quality measures are characterized as reports that give necessities, details, rules, or attributes that can be utilized reliably to guarantee that materials, items, procedures, and administrations are fit for their motivation.
 Standards give associations the common vision, getting, strategies, and jargon expected to meet the desires for their partners. Since norms present exact portrayals and phrasing, they offer a target and legitimate reason for associations and shoppers around the globe to convey and lead business.
 The following are the standards that to maintained:
